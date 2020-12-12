@@ -1,0 +1,15 @@
+{
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2020-12-07 18:06:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-12-07 18:06:43 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}

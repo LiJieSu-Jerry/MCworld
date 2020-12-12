@@ -1,0 +1,23 @@
+{
+  "botania:recipes/botania/lexicon": {
+    "criteria": {
+      "has_item": "2020-12-07 19:06:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2020-12-07 05:53:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:mountains": "2020-12-07 05:54:50 +0000",
+      "minecraft:taiga": "2020-12-07 05:53:41 +0000",
+      "minecraft:wooded_mountains": "2020-12-07 05:56:26 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2230
+}
